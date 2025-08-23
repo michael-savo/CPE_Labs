@@ -1,0 +1,16 @@
+Lab 3 - More ARM Assembly Practice
+
+This lab continues to focus on the basics of ARM Assembly but gradually introduces ways to implement ideas from high-level programming languages. For example:
+- Implementing loops and conditional executions
+- Implementing an array which Assembly doesn't natively know how to support unlike C for example.
+
+Files in the lab:
+- 'Lab3.pdf' - contains the instructions and groundwork for the lab along with my commentary and code snippets.
+- 'Assembly Code' folder - contains the Assembly code files for each part of the lab
+
+How to run the assembly code:
+- Upload the file to a code editor. I used https://cpulator.01xz.net/?sys=arm
+- Compile & load
+- Continue (F3)
+
+NOTE: The lab asks to provide corresponding high-level language code for part 3a, but was not required for my submission.
