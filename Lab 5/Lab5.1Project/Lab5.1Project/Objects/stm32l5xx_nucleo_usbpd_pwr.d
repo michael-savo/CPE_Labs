@@ -1,0 +1,34 @@
+./objects/stm32l5xx_nucleo_usbpd_pwr.o: \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\NUCLEO-L552ZE-Q_BSP\1.2.0\Drivers\STM32L5xx_Nucleo\stm32l5xx_nucleo_usbpd_pwr.c \
+  RTE\_Target_1\Pre_Include_Global.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\NUCLEO-L552ZE-Q_BSP\1.2.0\Drivers\STM32L5xx_Nucleo\stm32l5xx_nucleo_usbpd_pwr.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_ll_bus.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\CMSIS\Device\ST\STM32L5xx\Include\stm32l5xx.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\CMSIS\Device\ST\STM32L5xx\Include\stm32l552xx.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm33.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\CMSIS\Device\ST\STM32L5xx\Include\system_stm32l5xx.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_ll_adc.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_ll_gpio.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_ll_rcc.h \
+  RTE\Board_Support\STM32L552ZETxQ\stm32l5xx_nucleo_conf.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_conf.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_rcc.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_def.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_rcc_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_gpio.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_gpio_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_dma.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_dma_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_cortex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_exti.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_flash.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_flash_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_flash_ramfunc.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_i2c.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_i2c_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_icache.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_pwr.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\STM32L5xx_DFP\1.4.0\Drivers\STM32L5xx_HAL_Driver\Inc\stm32l5xx_hal_pwr_ex.h \
+  C:\Users\byett1\AppData\Local\Arm\Packs\Keil\NUCLEO-L552ZE-Q_BSP\1.2.0\Drivers\STM32L5xx_Nucleo\stm32l5xx_nucleo_errno.h
