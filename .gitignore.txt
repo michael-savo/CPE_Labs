@@ -1,0 +1,14 @@
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+
+
+*.uvguix.*
+*.uvoptx
+
+
+*.tmp
+*.bak
