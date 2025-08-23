@@ -1,0 +1,10 @@
+Lab 4 - Machine Code
+
+This lab dives deeper into ARM Assembly by introducing the machine code side of Assembly. Translating each instruction sequence into machine code allows for a greater understanding of the Assembly language's inner workings. My solutions
+
+Files in the lab:
+- 'Lab 4 Written Solutions.pdf' - my written solutions for each instruction sequence. This was my first time working with machine code, so it might be hard to read/understand/be incorrect.
+- 'Lab 4.pdf' - the instructions to complete the lab.
+
+
+
